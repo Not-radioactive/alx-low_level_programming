@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * I know it dosent need a comment cuz its simple enough,
- * but I have to do it for betty
+ * main - Entry
+ * Return: Always 0
  */
 int main(void)
 {
